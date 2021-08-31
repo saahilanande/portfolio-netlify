@@ -6,15 +6,15 @@ title: Saahil Anande
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MS in Computer Science student at The University of Texas at Arlington
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The University of Texas at Arlington
-  url: https://www.stanford.edu/
+  url: https://www.uta.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have good knowledge of SQL and Oracle DBA and can do any type of Database Management task. I also have experience in Sharepoint and Database support.
 
 # Interests to show in About widget
 interests:
@@ -35,23 +35,23 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:saahilanande21@gmail.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AnandeSaahil
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/saahilanande
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/saahilanande21/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
