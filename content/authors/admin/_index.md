@@ -69,4 +69,4 @@ highlight_name: false
 
 A Master of Science in Computer Science candidate with a knack for problem-solving, passionate about developing solutions using and learning the latest object-oriented programming techniques and software engineering methodologies
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/saahil_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
